@@ -1,0 +1,15 @@
+# 模型权重
+*.safetensors
+*.ckpt
+*.pt
+*.bin
+
+# 输出与缓存
+/output/
+/results/
+/__pycache__/
+node_modules/
+
+# 密钥
+.env
+*.key
